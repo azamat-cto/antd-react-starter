@@ -12,6 +12,7 @@
     "format:check": "prettier --check \"./**/*.{js,cjs,jsx,html,scss,md,json}\" --cache"
   },
   "dependencies": {
+    "@ant-design/cssinjs": "^1.18.2",
     "antd": "^5.12.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
